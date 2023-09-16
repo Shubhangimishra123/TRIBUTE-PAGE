@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute page</title>
+    <link rel="stylesheet" href="./tribute.css">
+</head>
+<body>
+    <div id="first">
+        <h1>-Dr A P J Abdul Kalam<br>(1931-2915)</h1>
+        <h2>"Misssile man of India"</h2>
+        <p><span>A.P.J. Abdul Kalam was a renowed scientist and the 11th President of India.</span><br>
+            Some of the achievements of APJ Abdul Kalam are12:<br>
+            -He headed multiple nuclear tests at Pokhran that made India a nuclear power1.<br>
+            -He led India's two major science research organisations - Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO)12.<br>
+            -He established himself as the “missile man of India” for his contributions to the development of ballistic missile and launch vehicle technology2.<br>
+            -He received several prestigious awards, including the Bharat Ratna, India's highest civilian honour2.<br>
+            -He served as the 11th President of India from 2002 to 2007</p>
+    
+    </div>
+    <div id="second">
+        <img src="./42-Abdul-Kalam-Birthday-1200x834.jpg" id="img">
+    </div>
+    
+</body>
+</html>
